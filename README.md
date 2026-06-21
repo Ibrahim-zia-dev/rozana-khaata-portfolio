@@ -95,29 +95,76 @@ The full source code is maintained in a **private repository** to protect:
 
 ---
 
-## 📂 Repository Structure
+# 📁 rozana-khaata-portfolio — Repository Structure
 
+```
 rozana-khaata-portfolio/
-README.md - Main documentation
-LICENSE - MIT License
-CONTRIBUTING.md - Contribution guidelines
-CHANGELOG.md - Version history
-.gitignore - Git ignore rules
-docs/
-architecture.md - Architecture details
-screenshots/ - App screenshots
-home_screen.jpeg
-Dashboard_screen.jpeg
-sales_screen.jpeg
-Sales_history_screen.jpeg
-inventory_screen.jpeg
-Setting_Screen.jpeg
-udhar_payments_screen.jpeg
-.github/
-ISSUE_TEMPLATE/
-bug_report.md
-feature_request.md
-workflows/
-build.yml
+│
+├── README.md                          # 📄 Main documentation
+├── LICENSE                            # ⚖️ MIT License
+├── CONTRIBUTING.md                    # 🤝 Contribution guidelines
+├── CHANGELOG.md                       # 📋 Version history
+├── .gitignore                         # 🚫 Git ignore rules
+│
+├── docs/
+│   └── architecture.md               # 🏗️ Architecture details
+│
+├── screenshots/                       # 📸 App screenshots
+│   ├── home_screen.jpeg
+│   ├── Dashboard_screen.jpeg
+│   ├── sales_screen.jpeg
+│   ├── Sales_history_screen.jpeg
+│   ├── inventory_screen.jpeg
+│   ├── Setting_Screen.jpeg
+│   └── udhar_payments_screen.jpeg
+│
+├── lib/                               # 💙 Flutter source code
+│   ├── core/                         # 🔧 Theme, constants, DI, Firebase
+│   ├── features/                     # ✨ Feature-first modules
+│   │   ├── auth/                     # 🔐 Login, signup, auth wrapper
+│   │   ├── onboarding/               # 🚬 Quit date, smoking data, summary
+│   │   ├── dashboard/                # 🏠 Home screen + live AppDataCon
+│   │   ├── achievements/             # 🏆 20-badge achievement engine
+│   │   ├── health/                   # ❤️ WHO health benefit timeline
+│   │   ├── progress/                 # 📊 Periodic statistics
+│   │   ├── settings/                 # ⚙️ App settings & profile
+│   │   └── account_linking/          # 🔗 Guest → Google upgrade
+│   ├── routes/                       # 🗺️ Named routes
+│   └── shared/                       # 🧩 Models, repos, services, utils
+│
+└── .github/
+    ├── ISSUE_TEMPLATE/
+    │   ├── bug_report.md             # 🐛 Bug report template
+    │   └── feature_request.md        # 💡 Feature request template
+    └── workflows/
+        └── build.yml                 # 🔄 CI/CD build workflow
+```
 
+---
 
+## 📂 Folder Descriptions
+
+| Folder / File | Description |
+|---|---|
+| `README.md` | Main project documentation |
+| `LICENSE` | MIT open source license |
+| `CONTRIBUTING.md` | How to contribute to the project |
+| `CHANGELOG.md` | All version history and release notes |
+| `.gitignore` | Files/folders excluded from Git tracking |
+| `docs/architecture.md` | App architecture explanation |
+| `screenshots/` | All app UI screenshots (JPEG format) |
+| `lib/core/` | Theme, constants, DI container, Firebase config |
+| `lib/features/` | Feature-first modular architecture |
+| `lib/features/auth/` | Login, signup, authentication wrapper |
+| `lib/features/onboarding/` | Quit date setup, smoking data, summary |
+| `lib/features/dashboard/` | Home screen with live data connection |
+| `lib/features/achievements/` | 20-badge achievement engine |
+| `lib/features/health/` | WHO-based health benefit timeline |
+| `lib/features/progress/` | Periodic statistics and tracking |
+| `lib/features/settings/` | App settings & user profile |
+| `lib/features/account_linking/` | Guest to Google account upgrade |
+| `lib/routes/` | Named routes for navigation |
+| `lib/shared/` | Shared models, repositories, services, utils |
+| `.github/ISSUE_TEMPLATE/` | GitHub issue templates |
+| `.github/workflows/build.yml` | GitHub Actions CI/CD pipeline |
+```
