@@ -67,13 +67,13 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/home_screen.jpeg" width="120"> &nbsp;
-  <img src="screenshots/Dashboard_screen.jpeg" width="120"> &nbsp;
-  <img src="screenshots/sales_screen.jpeg" width="120"> &nbsp;
-  <img src="screenshots/Sales_history_screen.jpeg" width="120"> &nbsp;
-  <img src="screenshots/inventory_screen.jpeg" width="120"> &nbsp;
-  <img src="screenshots/Setting_Screen.jpeg" width="120"> &nbsp;
-  <img src="screenshots/udhar_payments_screen.jpeg" width="120">
+  <img src="screenshots/home_screen.jpeg" width="80"> &nbsp;
+  <img src="screenshots/Dashboard_screen.jpeg" width="80"> &nbsp;
+  <img src="screenshots/sales_screen.jpeg" width="80"> &nbsp;
+  <img src="screenshots/Sales_history_screen.jpeg" width="80"> &nbsp;
+  <img src="screenshots/inventory_screen.jpeg" width="80"> &nbsp;
+  <img src="screenshots/Setting_Screen.jpeg" width="80"> &nbsp;
+  <img src="screenshots/udhar_payments_screen.jpeg" width="80">
   
   <br>
   
