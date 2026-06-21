@@ -63,29 +63,18 @@
 | Cloud | Cloud Firestore |
 | Printing | ESC/POS + TSPL |
 | PDF Generation | pdf package |
-
 ## 📸 Screenshots
 
-### 🏠 Home Screen
-<img src="screenshots/home_screen.jpeg" width="300">
+| Screen | Screenshot |
+|--------|------------|
+| 🏠 Home | <img src="screenshots/home_screen.jpeg" width="250"> |
+| 📊 Dashboard | <img src="screenshots/Dashboard_screen.jpeg" width="250"> |
+| 🛒 Sales | <img src="screenshots/sales_screen.jpeg" width="250"> |
+| 📜 Sales History | <img src="screenshots/Sales_history_screen.jpeg" width="250"> |
+| 📦 Inventory | <img src="screenshots/inventory_screen.jpeg" width="250"> |
+| ⚙️ Settings | <img src="screenshots/Setting_Screen.jpeg" width="250"> |
+| 💰 Udhar | <img src="screenshots/udhar_payments_screen.jpeg" width="250"> |
 
-### 📊 Dashboard
-<img src="screenshots/Dashboard_screen.jpeg" width="300">
-
-### 🛒 Sales
-<img src="screenshots/sales_screen.jpeg" width="300">
-
-### 📜 Sales History
-<img src="screenshots/Sales_history_screen.jpeg" width="300">
-
-### 📦 Inventory
-<img src="screenshots/inventory_screen.jpeg" width="300">
-
-### ⚙️ Settings
-<img src="screenshots/Setting_Screen.jpeg" width="300">
-
-### 💰 Udhar Payments
-<img src="screenshots/udhar_payments_screen.jpeg" width="300">
 
 
 ## 🔒 Source Code Access
