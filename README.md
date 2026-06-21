@@ -102,18 +102,22 @@ rozana-khaata-portfolio/
 ├── LICENSE # MIT License
 ├── CONTRIBUTING.md # Contribution guidelines
 ├── CHANGELOG.md # Version history
+├── .gitignore # Git ignore rules
 ├── docs/
 │ └── architecture.md # Architecture details
 ├── screenshots/ # App screenshots
-│ ├── home.jpeg
-│ ├── sales.jpeg
-│ └── dashboard.jpeg
+│ ├── home_screen.jpeg
+│ ├── Dashboard_screen.jpeg
+│ ├── sales_screen.jpeg
+│ ├── Sales_history_screen.jpeg
+│ ├── inventory_screen.jpeg
+│ ├── Setting_Screen.jpeg
+│ └── udhar_payments_screen.jpeg
 └── .github/
 ├── ISSUE_TEMPLATE/
 │ ├── bug_report.md
 │ └── feature_request.md
 └── workflows/
 └── build.yml
-
 
 
