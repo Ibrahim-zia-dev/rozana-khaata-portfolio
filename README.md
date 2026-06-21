@@ -68,26 +68,15 @@
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
-![Home](screenshots/home_screen.jpeg)
-
-### 📊 Dashboard
-![Dashboard](screenshots/Dashboard_screen.jpeg)
-
-### 🛒 Sales
-![Sales](screenshots/sales_screen.jpeg)
-
-### 📜 Sales History
-![Sales History](screenshots/Sales_history_screen.jpeg)
-
-### 📦 Inventory
-![Inventory](screenshots/inventory_screen.jpeg)
-
-### ⚙️ Settings
-![Settings](screenshots/Setting_Screen.jpeg)
-
-### 💰 Udhar Payments
-![Udhar](screenshots/udhar_payments_screen.jpeg)
+| Screen | Screenshot |
+|--------|------------|
+| Home Screen | ![Home](screenshots/home_screen.jpeg) |
+| Dashboard | ![Dashboard](screenshots/Dashboard_screen.jpeg) |
+| Sales | ![Sales](screenshots/sales_screen.jpeg) |
+| Sales History | ![Sales History](screenshots/Sales_history_screen.jpeg) |
+| Inventory | ![Inventory](screenshots/inventory_screen.jpeg) |
+| Settings | ![Settings](screenshots/Setting_Screen.jpeg) |
+| Udhar Payments | ![Udhar](screenshots/udhar_payments_screen.jpeg) |
 
 ## 🔒 Source Code Access
 
