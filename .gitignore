@@ -1,0 +1,33 @@
+# Flutter
+*.lock
+*.iml
+*.iws
+*.swp
+.DS_Store
+.dart_tool/
+build/
+pubspec.lock
+
+# Android
+*.apk
+*.aab
+*.keystore
+android/local.properties
+
+# iOS
+*.app
+*.ipa
+Pods/
+Podfile.lock
+
+# Firebase
+google-services.json
+GoogleService-Info.plist
+
+# Environment
+.env
+secrets.json
+
+# IDE
+.vscode/
+.idea/

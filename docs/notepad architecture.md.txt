@@ -1,0 +1,17 @@
+# Architecture Overview
+
+## Tech Stack
+- **Frontend:** Flutter 3.x
+- **State:** Provider
+- **Database:** SQLite
+- **Auth:** Firebase
+- **Printing:** ESC/POS + TSPL
+
+## Key Features
+1. **Offline-First:** Works without internet
+2. **Atomic Transactions:** Data integrity
+3. **Universal Printing:** Supports multiple printers
+
+## Data Flow
+User Action → Provider → Service → Database → UI Update
+
