@@ -88,8 +88,8 @@ The full source code is maintained in a **private repository** to protect:
 - 🔐 Firebase credentials
 
 ### Request Access
-1. Connect on [LinkedIn](https://linkedin.com/in/ibrahim-zia)
-2. Email: your-email@example.com
+1. Connect on [LinkedIn](https://www.linkedin.com/in/ibrahim-zia-b13894408?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+2. Email: ibrahimzia889@gmail.com
 3. Mention your purpose (portfolio review, job, collaboration)
 
 > **Note:** Access granted on a case-by-case basis.
