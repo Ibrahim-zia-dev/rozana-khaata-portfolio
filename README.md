@@ -67,17 +67,11 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/home_screen.jpeg" width="80"> &nbsp;
-  <img src="screenshots/Dashboard_screen.jpeg" width="80"> &nbsp;
-  <img src="screenshots/sales_screen.jpeg" width="80"> &nbsp;
-  <img src="screenshots/Sales_history_screen.jpeg" width="80"> &nbsp;
-  <img src="screenshots/inventory_screen.jpeg" width="80"> &nbsp;
-  <img src="screenshots/Setting_Screen.jpeg" width="80"> &nbsp;
-  <img src="screenshots/udhar_payments_screen.jpeg" width="80">
   
-  <br>
-  
-  🏠 Home &nbsp; 📊 Dashboard &nbsp; 🛒 Sales &nbsp; 📜 History &nbsp; 📦 Inventory &nbsp; ⚙️ Settings &nbsp; 💰 Udhar
+| 🏠 Home | 📊 Dashboard | 🛒 Sales | 📜 History | 📦 Inventory | ⚙️ Settings | 💰 Udhar |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="screenshots/home_screen.jpeg" width="80"> | <img src="screenshots/Dashboard_screen.jpeg" width="80"> | <img src="screenshots/sales_screen.jpeg" width="80"> | <img src="screenshots/Sales_history_screen.jpeg" width="80"> | <img src="screenshots/inventory_screen.jpeg" width="80"> | <img src="screenshots/Setting_Screen.jpeg" width="80"> | <img src="screenshots/udhar_payments_screen.jpeg" width="80"> |
+
 </div>
 
 
